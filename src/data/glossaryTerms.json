@@ -1,0 +1,767 @@
+[
+  {
+    "term": "AR Coating",
+    "description": "Anti-reflective coating applied to watch crystals to reduce glare and improve readability.",
+    "category": "component"
+  },
+  {
+    "term": "Automatic",
+    "description": "A watch that winds itself through the motion of the wearer's wrist, using a rotor mechanism.",
+    "category": "terminology"
+  },
+  {
+    "term": "A. Lange & Söhne",
+    "description": "German luxury watchmaker renowned for precision engineering and distinctive design since 1845.",
+    "category": "brand"
+  },
+  {
+    "term": "Amplitude",
+    "description": "The degree of rotation of a balance wheel, typically measured between 270-315 degrees.",
+    "category": "component"
+  },
+  {
+    "term": "Antimagnetic",
+    "description": "Resistance to magnetic fields that can affect a watch's timekeeping accuracy.",
+    "category": "terminology"
+  },
+  {
+    "term": "Balance Wheel",
+    "description": "The oscillating wheel that regulates the timekeeping in a mechanical watch movement.",
+    "category": "component"
+  },
+  {
+    "term": "Bauhaus",
+    "description": "German design movement emphasizing simplicity and functionality, influencing watch design.",
+    "category": "style"
+  },
+  {
+    "term": "BGW9",
+    "description": "Type of luminous material used on watch dials and hands for visibility in low light.",
+    "category": "terminology"
+  },
+  {
+    "term": "Brushing",
+    "description": "Surface finishing technique creating fine parallel lines on metal watch cases.",
+    "category": "terminology"
+  },
+  {
+    "term": "Beat Error",
+    "description": "The difference in time between the left and right swing of the balance wheel, affecting accuracy.",
+    "category": "terminology"
+  },
+  {
+    "term": "Bezel",
+    "description": "The ring surrounding the watch dial, often rotating and used for timing or measurement functions.",
+    "category": "component"
+  },
+  {
+    "term": "Bracelet",
+    "description": "A metal watch band typically made of linked segments, as opposed to a leather strap.",
+    "category": "component"
+  },
+  {
+    "term": "Breguet",
+    "description": "Swiss luxury watchmaker founded by Abraham-Louis Breguet, known for innovative complications and elegant designs.",
+    "category": "brand"
+  },
+  {
+    "term": "Bulgari",
+    "description": "Italian luxury jeweler and watchmaker known for the Octo and Serpenti collections with distinctive design language.",
+    "category": "brand"
+  },
+  {
+    "term": "Bulova",
+    "description": "American watchmaker known for the Accutron tuning fork movement and precision timekeeping.",
+    "category": "brand"
+  },
+  {
+    "term": "Caliber",
+    "description": "The movement or mechanism inside a watch, often identified by a specific number or name.",
+    "category": "terminology"
+  },
+  {
+    "term": "Case Diameter",
+    "description": "The width of a watch case measured across the dial, typically in millimeters.",
+    "category": "terminology"
+  },
+  {
+    "term": "Case Thickness",
+    "description": "The height or thickness of a watch case, measured from caseback to crystal in millimeters.",
+    "category": "terminology"
+  },
+  {
+    "term": "Cartier",
+    "description": "French luxury jeweler and watchmaker known for elegant designs and iconic models like the Tank.",
+    "category": "brand"
+  },
+  {
+    "term": "Casio",
+    "description": "Japanese electronics company known for digital watches, calculators, and the G-Shock series.",
+    "category": "brand"
+  },
+  {
+    "term": "Caseback",
+    "description": "The rear cover of the watch case, either solid, exhibition, or snap-on style.",
+    "category": "component"
+  },
+  {
+    "term": "Chronograph",
+    "description": "A watch complication that functions as a stopwatch, allowing measurement of elapsed time.",
+    "category": "complication"
+  },
+  {
+    "term": "Chronometer",
+    "description": "A watch that has passed precision tests and meets specific accuracy standards.",
+    "category": "terminology"
+  },
+  {
+    "term": "COSC",
+    "description": "Contrôle Officiel Suisse des Chronomètres, Swiss organization certifying chronometer accuracy.",
+    "category": "terminology"
+  },
+  {
+    "term": "Chopard",
+    "description": "Swiss luxury watchmaker and jeweler known for the Happy Diamonds and L.U.C collections.",
+    "category": "brand"
+  },
+  {
+    "term": "Citizen",
+    "description": "Japanese watchmaker known for Eco-Drive technology and affordable, reliable timepieces.",
+    "category": "brand"
+  },
+  {
+    "term": "Complication",
+    "description": "Any function on a watch beyond basic timekeeping, such as date, chronograph, or moon phase.",
+    "category": "terminology"
+  },
+  {
+    "term": "Crown",
+    "description": "The knob used to wind the watch and set the time, typically located at 3 o'clock.",
+    "category": "component"
+  },
+  {
+    "term": "C3",
+    "description": "Type of luminous material used on watch dials and hands for visibility in low light.",
+    "category": "terminology"
+  },
+  {
+    "term": "Crown Guards",
+    "description": "Protective extensions around the crown to prevent accidental adjustment or damage.",
+    "category": "component"
+  },
+  {
+    "term": "Crown Stem",
+    "description": "Component connecting the crown to the winding mechanism inside the case.",
+    "category": "component"
+  },
+  {
+    "term": "Cyclops",
+    "description": "Magnifying lens over the date window, famously used by Rolex to enhance date readability.",
+    "category": "component"
+  },
+  {
+    "term": "Date Display",
+    "description": "A common complication showing the current date, usually through a window at 3 o'clock.",
+    "category": "complication"
+  },
+  {
+    "term": "Deployant Clasp",
+    "description": "A folding clasp system that opens and closes without removing the strap from the wrist.",
+    "category": "component"
+  },
+  {
+    "term": "Dial",
+    "description": "The face of the watch displaying time, featuring hour markers, hands, and various indications.",
+    "category": "component"
+  },
+  {
+    "term": "Diving Watch",
+    "description": "A water-resistant timepiece designed for underwater use, typically rated to at least 200 meters.",
+    "category": "style"
+  },
+  {
+    "term": "End Links",
+    "description": "Bracelet pieces connecting the first links to the watch case lugs.",
+    "category": "component"
+  },
+  {
+    "term": "Escapement",
+    "description": "The mechanism that controls the release of energy from the mainspring to regulate timekeeping.",
+    "category": "component"
+  },
+  {
+    "term": "ETA",
+    "description": "Swiss movement manufacturer supplying calibers to many watch brands worldwide.",
+    "category": "brand"
+  },
+  {
+    "term": "Exhibition Caseback",
+    "description": "A transparent case back allowing view of the movement's inner workings.",
+    "category": "component"
+  },
+  {
+    "term": "Field Watch",
+    "description": "A simple, robust timepiece originally designed for military use with clear legibility.",
+    "category": "style"
+  },
+  {
+    "term": "Flieger",
+    "description": "German term for pilot watches, characterized by large, legible dials and robust construction.",
+    "category": "style"
+  },
+  {
+    "term": "Flyback",
+    "description": "A chronograph function allowing instant reset and restart with a single pusher activation.",
+    "category": "complication"
+  },
+  {
+    "term": "Franck Muller",
+    "description": "Swiss luxury watchmaker known for complicated movements and distinctive tonneau-shaped cases.",
+    "category": "brand"
+  },
+  {
+    "term": "Frequency",
+    "description": "The rate of oscillation in a watch movement, typically measured in vibrations per hour (vph).",
+    "category": "terminology"
+  },
+  {
+    "term": "G-Shock",
+    "description": "Casio's line of shock-resistant digital watches designed for extreme durability and functionality.",
+    "category": "brand"
+  },
+  {
+    "term": "Glycine",
+    "description": "Swiss watchmaker known for aviation watches and the iconic Airman collection.",
+    "category": "brand"
+  },
+  {
+    "term": "Hamilton",
+    "description": "American watchmaker known for military and aviation timepieces, now owned by Swatch Group.",
+    "category": "brand"
+  },
+  {
+    "term": "Hanhart",
+    "description": "German watchmaker specializing in pilot and chronograph watches with rich aviation heritage.",
+    "category": "brand"
+  },
+  {
+    "term": "GMT",
+    "description": "Greenwich Mean Time complication displaying a second time zone via an additional hand.",
+    "category": "complication"
+  },
+  {
+    "term": "Gold",
+    "description": "Precious metal used in luxury watchmaking, available in yellow, white, and rose gold varieties.",
+    "category": "material"
+  },
+  {
+    "term": "Grand Seiko",
+    "description": "Japanese luxury watch brand known for exceptional precision, finishing, and the Spring Drive movement.",
+    "category": "brand"
+  },
+  {
+    "term": "Gasket",
+    "description": "Rubber or synthetic seal ensuring water resistance by preventing moisture ingress.",
+    "category": "component"
+  },
+  {
+    "term": "Guilloche",
+    "description": "Decorative engraving technique creating intricate, repetitive patterns on watch dials.",
+    "category": "terminology"
+  },
+  {
+    "term": "Haute Horlogerie",
+    "description": "The highest level of fine watchmaking, emphasizing craftsmanship, complications, and finishing.",
+    "category": "terminology"
+  },
+  {
+    "term": "Holy Trinity",
+    "description": "The three most prestigious Swiss watchmakers: Patek Philippe, Audemars Piguet, and Vacheron Constantin.",
+    "category": "terminology"
+  },
+  {
+    "term": "Homage",
+    "description": "A watch that pays tribute to or is inspired by a famous design without being a direct copy.",
+    "category": "terminology"
+  },
+  {
+    "term": "Helium Escape Valve",
+    "description": "A one-way valve allowing helium to escape during decompression in professional diving watches.",
+    "category": "component"
+  },
+  {
+    "term": "Hour Markers",
+    "description": "Indices or numerals on the dial indicating hours, made from various materials and shapes.",
+    "category": "component"
+  },
+  {
+    "term": "Hublot",
+    "description": "Swiss luxury watchmaker known for bold designs and innovative material combinations since 1980.",
+    "category": "brand"
+  },
+  {
+    "term": "IWC",
+    "description": "International Watch Company, Swiss manufacturer renowned for pilot watches and engineering excellence.",
+    "category": "brand"
+  },
+  {
+    "term": "In-House Movement",
+    "description": "A watch movement designed and manufactured by the brand itself rather than sourced externally.",
+    "category": "terminology"
+  },
+  {
+    "term": "Incabloc",
+    "description": "Swiss shock absorption system protecting the balance wheel from impact damage.",
+    "category": "component"
+  },
+  {
+    "term": "Indices",
+    "description": "Hour markers on the dial, ranging from simple dots to elaborate applied metal markers.",
+    "category": "component"
+  },
+  {
+    "term": "Jaeger-LeCoultre",
+    "description": "Swiss luxury watchmaker known for the Reverso and Master collections, founded in 1833.",
+    "category": "brand"
+  },
+  {
+    "term": "Jewels",
+    "description": "Synthetic rubies used as bearings in watch movements to reduce friction and wear.",
+    "category": "component"
+  },
+  {
+    "term": "JLC",
+    "description": "Common abbreviation for Jaeger-LeCoultre among watch enthusiasts and collectors.",
+    "category": "terminology"
+  },
+  {
+    "term": "Junghans",
+    "description": "German watchmaker known for Bauhaus-inspired designs and the iconic Max Bill collection.",
+    "category": "brand"
+  },
+  {
+    "term": "Kinetic",
+    "description": "Seiko's technology combining automatic winding with quartz accuracy using rotor-generated electricity.",
+    "category": "terminology"
+  },
+  {
+    "term": "Kif",
+    "description": "Swiss shock protection system similar to Incabloc, safeguarding the balance wheel assembly.",
+    "category": "component"
+  },
+  {
+    "term": "Knurling",
+    "description": "Textured pattern on crowns and pushers providing better grip for operation.",
+    "category": "terminology"
+  },
+  {
+    "term": "Limited Edition",
+    "description": "A watch produced in restricted quantities, often featuring special designs or commemorative elements.",
+    "category": "terminology"
+  },
+  {
+    "term": "Longines",
+    "description": "Swiss watchmaker with rich aviation and sporting heritage, known for elegance since 1832.",
+    "category": "brand"
+  },
+  {
+    "term": "Lugs",
+    "description": "Projections from the watch case where the strap or bracelet attaches.",
+    "category": "component"
+  },
+  {
+    "term": "Lug to Lug",
+    "description": "The distance from the top of one lug to the bottom of the opposite lug on a watch case.",
+    "category": "terminology"
+  },
+  {
+    "term": "Luminous",
+    "description": "Materials like Super-LumiNova that glow in dark conditions for improved legibility.",
+    "category": "terminology"
+  },
+  {
+    "term": "Manual Wind",
+    "description": "A mechanical watch that requires manual winding by turning the crown to power the movement.",
+    "category": "terminology"
+  },
+  {
+    "term": "Manufacture",
+    "description": "A watchmaker that produces its own movements in-house rather than using external suppliers.",
+    "category": "terminology"
+  },
+  {
+    "term": "Mechanical",
+    "description": "A watch powered by a mainspring rather than battery, requiring manual or automatic winding.",
+    "category": "terminology"
+  },
+  {
+    "term": "Moon Phase",
+    "description": "A complication displaying the current phase of the moon through a rotating disc.",
+    "category": "complication"
+  },
+  {
+    "term": "Movement",
+    "description": "The internal mechanism of a watch, also known as the caliber.",
+    "category": "component"
+  },
+  {
+    "term": "MB&F",
+    "description": "Maximilian Büsser & Friends, Swiss brand creating avant-garde horological machines since 2005.",
+    "category": "brand"
+  },
+  {
+    "term": "Master Chronometer",
+    "description": "Omega's internal certification standard exceeding COSC requirements for accuracy and magnetic resistance.",
+    "category": "terminology"
+  },
+  {
+    "term": "Miyota",
+    "description": "Japanese movement manufacturer owned by Citizen, producing reliable and affordable calibers.",
+    "category": "brand"
+  },
+  {
+    "term": "Movado",
+    "description": "Swiss-American watchmaker known for minimalist designs and the iconic Museum dial.",
+    "category": "brand"
+  },
+  {
+    "term": "NATO Strap",
+    "description": "A single-piece fabric strap passing under the watch case, originally used by British military.",
+    "category": "component"
+  },
+  {
+    "term": "Nomos",
+    "description": "German watchmaker known for Bauhaus-inspired designs and in-house movements from Glashütte.",
+    "category": "brand"
+  },
+  {
+    "term": "Numerals",
+    "description": "Numbers marking hours on the watch dial, available in various fonts and styles.",
+    "category": "component"
+  },
+  {
+    "term": "Omega",
+    "description": "Swiss luxury watchmaker famous for Speedmaster moon watches and Seamaster diving watches.",
+    "category": "brand"
+  },
+  {
+    "term": "Orient",
+    "description": "Japanese watchmaker known for affordable mechanical watches and the popular Bambino collection.",
+    "category": "brand"
+  },
+  {
+    "term": "Oyster",
+    "description": "Rolex's waterproof case design featuring a screw-down crown and case back.",
+    "category": "terminology"
+  },
+  {
+    "term": "Open Heart",
+    "description": "A dial design with an aperture revealing the balance wheel's motion.",
+    "category": "style"
+  },
+  {
+    "term": "Oil",
+    "description": "Specialized lubricants used in watch movements to reduce friction and ensure smooth operation.",
+    "category": "terminology"
+  },
+  {
+    "term": "Panerai",
+    "description": "Italian luxury brand known for distinctive cushion cases and military diving watch heritage.",
+    "category": "brand"
+  },
+  {
+    "term": "Patek Philippe",
+    "description": "Swiss luxury watchmaker considered the pinnacle of haute horlogerie, founded in 1839.",
+    "category": "brand"
+  },
+  {
+    "term": "Perpetual Calendar",
+    "description": "A complication automatically adjusting for varying month lengths and leap years until 2100.",
+    "category": "complication"
+  },
+  {
+    "term": "Power Reserve",
+    "description": "The duration a watch will continue running when fully wound without additional winding.",
+    "category": "terminology"
+  },
+  {
+    "term": "Power Reserve Indicator",
+    "description": "A complication showing remaining mainspring energy, typically displayed as a subdial or linear scale.",
+    "category": "complication"
+  },
+  {
+    "term": "Pushers",
+    "description": "Buttons on chronograph watches used to start, stop, and reset timing functions.",
+    "category": "component"
+  },
+  {
+    "term": "Quartz",
+    "description": "Battery-powered watch movement using quartz crystal oscillations for precise timekeeping.",
+    "category": "terminology"
+  },
+  {
+    "term": "Quickset Date",
+    "description": "Feature allowing rapid date adjustment without cycling through 24-hour periods.",
+    "category": "complication"
+  },
+  {
+    "term": "Quarter Repeater",
+    "description": "A complication chiming hours and quarter-hours on demand via a pusher or slide.",
+    "category": "complication"
+  },
+  {
+    "term": "QC",
+    "description": "Quality Control process ensuring watches meet manufacturing standards before release.",
+    "category": "terminology"
+  },
+  {
+    "term": "Redial",
+    "description": "A dial that has been refinished or repainted, often affecting the watch's originality and value.",
+    "category": "terminology"
+  },
+  {
+    "term": "Regulation",
+    "description": "The process of adjusting a watch's timekeeping accuracy by modifying the regulator.",
+    "category": "terminology"
+  },
+  {
+    "term": "Replica",
+    "description": "An unauthorized copy of a watch design, often of lower quality than the original.",
+    "category": "terminology"
+  },
+  {
+    "term": "Richard Mille",
+    "description": "Swiss luxury brand known for ultra-modern materials and extreme technical innovation.",
+    "category": "brand"
+  },
+  {
+    "term": "Rolex",
+    "description": "Swiss luxury watchmaker and most recognized watch brand globally, founded in 1905.",
+    "category": "brand"
+  },
+  {
+    "term": "Rotor",
+    "description": "Semi-circular weight in automatic watches that winds the mainspring through wrist motion.",
+    "category": "component"
+  },
+  {
+    "term": "Running Seconds",
+    "description": "A continuously moving seconds hand, typically located at 9 o'clock on dress watches.",
+    "category": "complication"
+  },
+  {
+    "term": "Seiko",
+    "description": "Japanese watchmaker pioneering quartz technology and known for diverse, innovative timepieces.",
+    "category": "brand"
+  },
+  {
+    "term": "Servicing",
+    "description": "Regular maintenance of a watch including cleaning, oiling, and adjustment to ensure proper function.",
+    "category": "terminology"
+  },
+  {
+    "term": "Skeleton",
+    "description": "A watch with extensively cut-away dial and case revealing the movement's architecture.",
+    "category": "style"
+  },
+  {
+    "term": "Spring Drive",
+    "description": "Seiko's hybrid movement combining mechanical and quartz elements for exceptional accuracy.",
+    "category": "terminology"
+  },
+  {
+    "term": "Squale",
+    "description": "Swiss watchmaker specializing in diving watches with distinctive case designs.",
+    "category": "brand"
+  },
+  {
+    "term": "Slide Rule Bezel",
+    "description": "Rotating bezel with logarithmic scales for mathematical calculations, commonly used in aviation watches.",
+    "category": "component"
+  },
+  {
+    "term": "Subdial",
+    "description": "Smaller auxiliary dials within the main dial displaying various functions or indications.",
+    "category": "component"
+  },
+  {
+    "term": "Sweep Seconds",
+    "description": "A seconds hand that moves smoothly rather than in discrete tick motions.",
+    "category": "terminology"
+  },
+  {
+    "term": "Swatch",
+    "description": "Swiss watch brand known for colorful, affordable quartz watches and innovative designs.",
+    "category": "brand"
+  },
+  {
+    "term": "Superlative Chronometer",
+    "description": "Rolex's internal certification standard exceeding COSC requirements for accuracy and reliability.",
+    "category": "terminology"
+  },
+  {
+    "term": "TAG Heuer",
+    "description": "Swiss luxury watchmaker specializing in sports chronographs and racing-inspired timepieces.",
+    "category": "brand"
+  },
+  {
+    "term": "Timegrapher",
+    "description": "Device used to measure and display a watch's accuracy, beat rate, and amplitude.",
+    "category": "terminology"
+  },
+  {
+    "term": "Timex",
+    "description": "American watchmaker known for affordable, reliable watches and the iconic Weekender collection.",
+    "category": "brand"
+  },
+  {
+    "term": "Tissot",
+    "description": "Swiss watchmaker known for affordable luxury and the iconic T-Touch collection.",
+    "category": "brand"
+  },
+  {
+    "term": "Titanium",
+    "description": "Lightweight, hypoallergenic metal increasingly used in modern watch construction.",
+    "category": "material"
+  },
+  {
+    "term": "Tourbillon",
+    "description": "A visible escapement mechanism rotating to counteract gravitational effects on timekeeping.",
+    "category": "complication"
+  },
+  {
+    "term": "Tudor",
+    "description": "Swiss brand owned by Rolex, offering robust sports watches with heritage-inspired designs.",
+    "category": "brand"
+  },
+  {
+    "term": "Urwerk",
+    "description": "Swiss-Austrian independent brand creating futuristic satellite time displays and complications.",
+    "category": "brand"
+  },
+  {
+    "term": "Ulysse Nardin",
+    "description": "Swiss luxury watchmaker known for marine chronometers and innovative complications since 1846.",
+    "category": "brand"
+  },
+  {
+    "term": "Universal Geneve",
+    "description": "Historic Swiss watchmaker known for elegant designs and the iconic Polerouter collection.",
+    "category": "brand"
+  },
+  {
+    "term": "Victorinox",
+    "description": "Swiss brand known for Swiss Army knives and durable, functional timepieces.",
+    "category": "brand"
+  },
+  {
+    "term": "UTC",
+    "description": "Coordinated Universal Time, often displayed as a second time zone on GMT watches.",
+    "category": "terminology"
+  },
+  {
+    "term": "Unidirectional",
+    "description": "A bezel that rotates in only one direction, essential for diving watch safety.",
+    "category": "component"
+  },
+  {
+    "term": "Vacheron Constantin",
+    "description": "Swiss luxury watchmaker and oldest continuously operating watch manufacturer since 1755.",
+    "category": "brand"
+  },
+  {
+    "term": "Vibrations Per Hour",
+    "description": "Measurement of movement frequency, typically 21,600 or 28,800 vph for modern watches.",
+    "category": "terminology"
+  },
+  {
+    "term": "Vintage",
+    "description": "Older watches, typically 20+ years old, valued for rarity, condition, and historical significance.",
+    "category": "terminology"
+  },
+  {
+    "term": "VPH",
+    "description": "Abbreviation for Vibrations Per Hour, indicating the frequency of the balance wheel.",
+    "category": "terminology"
+  },
+  {
+    "term": "Vostok",
+    "description": "Russian watchmaker known for affordable mechanical watches and the iconic Amphibia collection.",
+    "category": "brand"
+  },
+  {
+    "term": "Water Resistance",
+    "description": "A watch's ability to withstand water pressure, measured in meters, ATM, or bar.",
+    "category": "terminology"
+  },
+  {
+    "term": "Winding",
+    "description": "The process of storing energy in the mainspring by turning the crown or through automatic motion.",
+    "category": "terminology"
+  },
+  {
+    "term": "World Time",
+    "description": "A complication displaying multiple time zones simultaneously on a single watch.",
+    "category": "complication"
+  },
+  {
+    "term": "WR",
+    "description": "Common abbreviation for Water Resistance found on watch cases and specifications.",
+    "category": "terminology"
+  },
+  {
+    "term": "Wristshot",
+    "description": "A photograph of a watch being worn on the wrist, commonly shared on social media.",
+    "category": "terminology"
+  },
+  {
+    "term": "Year Display",
+    "description": "An annual calendar complication showing the current year, often in a small window.",
+    "category": "complication"
+  },
+  {
+    "term": "Yellow Gold",
+    "description": "Traditional gold alloy with copper and silver, prized for its classic warm appearance.",
+    "category": "material"
+  },
+  {
+    "term": "Yacht Timer",
+    "description": "A specialized countdown timer used in sailing competitions for race starts.",
+    "category": "complication"
+  },
+  {
+    "term": "YG",
+    "description": "Common abbreviation for Yellow Gold in watch specifications and descriptions.",
+    "category": "terminology"
+  },
+  {
+    "term": "Zaratsu",
+    "description": "Grand Seiko's signature polishing technique creating mirror-like surfaces on watch cases.",
+    "category": "terminology"
+  },
+  {
+    "term": "Zodiac",
+    "description": "Swiss brand with rich diving watch heritage, particularly the Sea Wolf collection.",
+    "category": "brand"
+  },
+  {
+    "term": "Zenith",
+    "description": "Swiss luxury watchmaker famous for the El Primero chronograph movement since 1865.",
+    "category": "brand"
+  },
+  {
+    "term": "Zero Reset",
+    "description": "Function returning chronograph hands to zero position when activated.",
+    "category": "complication"
+  },
+  {
+    "term": "Zirconium",
+    "description": "Rare metal occasionally used in luxury watch cases for its durability and unique properties.",
+    "category": "material"
+  },
+  {
+    "term": "Zone Display",
+    "description": "Time zone indication showing different global regions on world time watches.",
+    "category": "complication"
+  }
+] 
